@@ -3,7 +3,7 @@
   "id": "http://example.org/foo",
   "type": "Note",
   "name": {
-    "en": "Plain < Text & Name"
+    "en": "Plain < Text & Name",
     "fr": "French Translation of the Plain < Test & Name"
   }
 }
